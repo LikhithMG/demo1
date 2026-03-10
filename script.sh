@@ -1,1 +1,1 @@
-echo"liki"
+echo "liki"
